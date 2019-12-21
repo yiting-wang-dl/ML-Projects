@@ -1,5 +1,4 @@
 #Homework2: Handling Data
-#NAMES OF THE GROUP MEMBERS: Chia-cheng Lin; May-chun Jai; Yiwen Zheng; Yiting Wang; Yi Lu
 library(shiny)
 library(plotly)
 library(ggplot2)
